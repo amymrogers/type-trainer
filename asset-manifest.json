@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/type-trainer/static/css/main.834f554c.chunk.css",
+    "main.js": "/type-trainer/static/js/main.327371fa.chunk.js",
+    "main.js.map": "/type-trainer/static/js/main.327371fa.chunk.js.map",
+    "runtime-main.js": "/type-trainer/static/js/runtime-main.ade413e0.js",
+    "runtime-main.js.map": "/type-trainer/static/js/runtime-main.ade413e0.js.map",
+    "static/js/2.7f8bac72.chunk.js": "/type-trainer/static/js/2.7f8bac72.chunk.js",
+    "static/js/2.7f8bac72.chunk.js.map": "/type-trainer/static/js/2.7f8bac72.chunk.js.map",
+    "static/js/3.7ae94bf2.chunk.js": "/type-trainer/static/js/3.7ae94bf2.chunk.js",
+    "static/js/3.7ae94bf2.chunk.js.map": "/type-trainer/static/js/3.7ae94bf2.chunk.js.map",
+    "index.html": "/type-trainer/index.html",
+    "static/css/main.834f554c.chunk.css.map": "/type-trainer/static/css/main.834f554c.chunk.css.map",
+    "static/js/2.7f8bac72.chunk.js.LICENSE.txt": "/type-trainer/static/js/2.7f8bac72.chunk.js.LICENSE.txt",
+    "static/media/logo.97785ecb.svg": "/type-trainer/static/media/logo.97785ecb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ade413e0.js",
+    "static/js/2.7f8bac72.chunk.js",
+    "static/css/main.834f554c.chunk.css",
+    "static/js/main.327371fa.chunk.js"
+  ]
+}
